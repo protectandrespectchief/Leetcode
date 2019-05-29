@@ -23,7 +23,6 @@ public:
             j++;
             i = j;
         }
-        s.substr()
 
         return res;
 
