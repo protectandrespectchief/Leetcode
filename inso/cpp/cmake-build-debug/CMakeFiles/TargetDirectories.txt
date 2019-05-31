@@ -1,0 +1,5 @@
+/home/inso/Desktop/cpp/Leetcode/inso/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/inso/Desktop/cpp/Leetcode/inso/cpp/cmake-build-debug/CMakeFiles/56.dir
+/home/inso/Desktop/cpp/Leetcode/inso/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/inso/Desktop/cpp/Leetcode/inso/cpp/cmake-build-debug/CMakeFiles/60.dir
+/home/inso/Desktop/cpp/Leetcode/inso/cpp/cmake-build-debug/CMakeFiles/58.dir
